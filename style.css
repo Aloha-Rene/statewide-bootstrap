@@ -72,6 +72,7 @@ body {
   padding: 0.6rem 1.3rem;
   font-size: 1.1rem;
   color: #1376ff;
+  font-weight: bold;
 }
 .btn-lg:hover{
   color: white;
@@ -191,6 +192,19 @@ hr.socket {
   border-top: 0.2rem solid #666;
   margin-top: 3rem;
 }
+
+.top-jumbo-button .call-button{
+  background: pink !important;
+}
+
+
+.top-jumbo-button a{
+  color: white !important;
+  font-weight: 900;
+}
+
+
+
 
 /*============ BOOTSTRAP BREAK POINTS:
 
