@@ -4,7 +4,7 @@
 
 # HTML Email Templates
 
-💌 Welcome to our collection of responsive HTML email templates! 💌
+💌 Welcome to my collection of responsive HTML email templates! 💌
 
 ## About
 This repository hosts a selection of meticulously crafted HTML email templates designed for [brief description of purpose/use]. Built with cross-client compatibility in mind, these templates ensure your messages look great across various email clients and devices.
